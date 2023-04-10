@@ -1,7 +1,13 @@
-# Fair Graph Message Passing with Transparency
+# Code of Fair Graph Message Passing for TMLR Review
 
-### Reproduce the results
+## Python Packages
 
+* pytorch==1.12.1
+* dgl==1.0.1+cu113
+
+
+## Command
+Run the following command:
 ```
 sh run_fgnn.sh
 ```
