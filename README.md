@@ -1,4 +1,4 @@
-# Code of Fair Graph Message Passing for TMLR Review
+# Chasing Fairness in Graphs: A GNN Architecture Perspective
 
 ## Python Packages
 
